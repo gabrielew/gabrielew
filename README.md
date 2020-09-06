@@ -8,6 +8,7 @@ Passionate about of the best web & mobile development technologies & coffe.
 Enthusiast of learning, automation, javascript. A tip, Typescript is wonderful!.
 
 > Improving on
+
     [x] Javascript
     [x] Typescript
     [x] ReactJS
