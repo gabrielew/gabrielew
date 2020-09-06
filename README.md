@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@gabrielew-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/Gabriel75056738) 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Alcântara-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-alcântara-bernardes-a50829159/)](https://www.linkedin.com/in/gabriel-alcântara-bernardes-a50829159/) 
 
-Passionate about of the best web & mobile development technologies & coffe.
+Passionate about of the best web & mobile development technologies.
 
 Enthusiast of learning, automation, javascript. A tip, Typescript is wonderful!.
 
