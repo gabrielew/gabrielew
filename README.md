@@ -5,7 +5,7 @@
 
 Passionate about of the best web & mobile development technologies.
 
-Enthusiast of learning, automation, javascript. A tip, Typescript is wonderful!.
+Enthusiast of learning new things, automation, javascript. A tip, Typescript is wonderful!.
 
 > Improving on
 
